@@ -2,7 +2,7 @@
 
 A comprehensive guide to handling database operations with Python. From establishing connections to writing data back into your databases, these notebooks serve as a primer for anyone looking to integrate Python with SQL operations.
 
-![Your Image Alt Text](C:\Users\User\sql_databases_with_python\python_mysql.png)
+![Your Image Alt Text](path_to_your_image.jpg)
 
 ## Features
 
